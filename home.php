@@ -1,8 +1,6 @@
 <?php 
 	require ("page.php");
-
 	$homepage = new Page();
-
 	$homepage->content = "
 <div class='main-grid-one1'  id='one'>
     <div class='home-banner'>
@@ -57,14 +55,12 @@
 			</div>
 		</div>
 	</div>
-
 	<div class='furniture'>
 		<div class='container'>
-
 			<div class='furniture-main'>
 				<div class='col-md-4 furniture-grid wow bounceInLeft' data-wow-delay='0.3s'>
 					<figure>
-						<img src='style/images/r1.jpg' alt='' class='img_responsive'>
+						<img src='style/users/images/r1.jpg' alt='' class='img_responsive'>
 					</figure>
 					<h4><a href='single.html'>Take a trivial example </a></h4>
 					<p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account.</p>
@@ -72,14 +68,14 @@
 				</div>
 				<div class='col-md-4 furniture-grid wow bounceInUp' data-wow-delay='0.3s'>
 					<figure>
-						<img src='style/images/r2.jpg' alt='' class='img_responsive'>
+						<img src='style/users/images/r2.jpg' alt='' class='img_responsive'>
 					</figure>
 					<h4><a href='single.html'>Take a trivial example </a></h4>
 					<p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account.</p>
 				</div>
 				<div class='col-md-4 furniture-grid wow bounceInUp' data-wow-delay='0.3s'>
 					<figure>
-						<img src='style/images/lobster.jpg' alt='' class='img_responsive'>
+						<img src='style/users/images/lobster.jpg' alt='' class='img_responsive'>
 					</figure>
 					<h4><a href='single.html'>Take a trivial example </a></h4>
 					<p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account.</p>

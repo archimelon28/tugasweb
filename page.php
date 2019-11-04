@@ -37,9 +37,9 @@
 		{
 			?>
 				<!--Custom CSS -->
-				<link href="style/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
-				<link href="style/css/style.css" rel="stylesheet" type="text/css" media="all"/>
-				<link rel="stylesheet" type="text/css" href="style/css/style2.css" />
+				<link href="style/users/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+				<link href="style/users/css/style.css" rel="stylesheet" type="text/css" media="all"/>
+				<link rel="stylesheet" type="text/css" href="style/users/css/style2.css" />
 				<meta name="viewport" content="width=device-width, initial-scale=1">
 				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 				<meta name="keywords" content="Hot Cuisine Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
@@ -49,7 +49,7 @@
 				<link href='//fonts.googleapis.com/css?family=Ruluko' rel='stylesheet' type='text/css'>
 				<link href='//fonts.googleapis.com/css?family=Work+Sans:400,600,500,700,800,900,200,300' rel='stylesheet' type='text/css' />
 				<!--fonts -->
-				<script type="text/javascript" src="style/js/jquery.js"></script>
+				<script type="text/javascript" src="style/users/js/jquery.js"></script>
 			<?php
 		}
 
@@ -62,7 +62,7 @@
 						<a href="index.html"><img src="style/images/logo.png" alt=""></a>
 					</div>
 					<div class="navigation">	
-						<span class="menu-ic"><img src="images/menu2.png" alt=""></span>
+						<span class="menu-ic"><img src="style/users/images/menu2.png" alt=""></span>
 						<div class="menu menu-li">
 							<ul class="menu-list">
 								<li class="menu-item menu-item-current"><a href="index.html" class="menu-link">Home</a></li>
